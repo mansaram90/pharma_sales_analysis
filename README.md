@@ -8,6 +8,7 @@ This project analyzes pharmaceutical sales data to uncover trends in revenue, ma
 - `Pharma sales data analysis.ipynb`: main analysis notebook
 - Data includes: sales orders, marketing spend, inventory, shipments, products
 - pharma sales data.zip
+- Pharma_Sales_Data_Analysis_Report.docx
 
 ##  Key Insights
 - Top-performing territories and products
